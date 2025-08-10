@@ -1,0 +1,2389 @@
+[
+  {
+    'id': '1942330',
+    'name': 'Пятёрочка',
+    'url': 'https://api.hh.ru/employers/1942330',
+    'alternate_url': 'https://hh.ru/employer/1942330',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/7101935.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/7101934.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+    'open_vacancies': 28384
+  },
+  {
+    'id': '49357',
+    'name': 'МАГНИТ, Розничная сеть',
+    'url': 'https://api.hh.ru/employers/49357',
+    'alternate_url': 'https://hh.ru/employer/49357',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1395726.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/7202688.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/7202687.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=49357',
+    'open_vacancies': 20165
+  },
+  {
+    'id': '2748',
+    'name': 'Ростелеком',
+    'url': 'https://api.hh.ru/employers/2748',
+    'alternate_url': 'https://hh.ru/employer/2748',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/592930.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/2812976.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/2812975.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2748',
+    'open_vacancies': 13728
+  },
+  {
+    'id': '11875449',
+    'name': 'ПрессБук',
+    'url': 'https://api.hh.ru/employers/11875449',
+    'alternate_url': 'https://hh.ru/employer/11875449',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1402503.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/7229685.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/7229684.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=11875449',
+    'open_vacancies': 7533
+  },
+  {
+    'id': '78638',
+    'name': 'Т-Банк',
+    'url': 'https://api.hh.ru/employers/78638',
+    'alternate_url': 'https://hh.ru/employer/78638',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1405176.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/7240373.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/7240372.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638',
+    'open_vacancies': 7412
+  },
+  {
+    'id': '11880060',
+    'name': 'ТехноСтафф Альянс',
+    'url': 'https://api.hh.ru/employers/11880060',
+    'alternate_url': 'https://hh.ru/employer/11880060',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1403801.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/7234873.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/7234872.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=11880060',
+    'open_vacancies': 6117
+  },
+  {
+    'id': '2848663',
+    'name': 'Сеть фитнес-клубов Spirit',
+    'url': 'https://api.hh.ru/employers/2848663',
+    'alternate_url': 'https://hh.ru/employer/2848663',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1220157.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6501070.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6501069.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2848663',
+    'open_vacancies': 6074
+  },
+  {
+    'id': '2180',
+    'name': 'Ozon',
+    'url': 'https://api.hh.ru/employers/2180',
+    'alternate_url': 'https://hh.ru/employer/2180',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+    'open_vacancies': 5997
+  },
+  {
+    'id': '196621',
+    'name': 'FIX PRICE',
+    'url': 'https://api.hh.ru/employers/196621',
+    'alternate_url': 'https://hh.ru/employer/196621',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1254084.jpg',
+      '240': 'https://img.hhcdn.ru/employer-logo/6636766.jpeg',
+      '90': 'https://img.hhcdn.ru/employer-logo/6636765.jpeg'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=196621',
+    'open_vacancies': 5517
+  },
+  {
+    'id': '1942336',
+    'name': 'Перекрёсток',
+    'url': 'https://api.hh.ru/employers/1942336',
+    'alternate_url': 'https://hh.ru/employer/1942336',
+    'logo_urls': {
+      'original': 'https://img.hhcdn.ru/employer-logo-original/1381824.png',
+      '240': 'https://img.hhcdn.ru/employer-logo/7147084.png',
+      '90': 'https://img.hhcdn.ru/employer-logo/7147083.png'
+    },
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942336',
+    'open_vacancies': 4938
+  }
+]
+
+
+
+[
+  {
+    'id': '121171854',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'salary': {
+      'from': 100000,
+      'to': 152000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 100000,
+      'to': 152000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-07-29T14:31:47+0300',
+    'created_at': '2025-07-29T14:31:47+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121171854',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121171854?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121171854',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'flexible',
+      'name': 'Гибкий график'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [
+      {
+        'id': 'ON_SITE',
+        'name': 'На\xa0месте работодателя'
+      }
+    ],
+    'working_hours': [
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'FLEXIBLE',
+        'name': 'По\xa0договорённости'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'TWO_ON_TWO_OFF',
+        'name': '2/2'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': False,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121172485',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '2',
+      'name': 'Санкт-Петербург',
+      'url': 'https://api.hh.ru/areas/2'
+    },
+    'salary': {
+      'from': 133000,
+      'to': 150000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 133000,
+      'to': 150000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-07-29T14:44:28+0300',
+    'created_at': '2025-07-29T14:44:28+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121172485',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121172485?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121172485',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'flexible',
+      'name': 'Гибкий график'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [
+      {
+        'id': 'ON_SITE',
+        'name': 'На\xa0месте работодателя'
+      }
+    ],
+    'working_hours': [
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'FIVE_ON_TWO_OFF',
+        'name': '5/2'
+      },
+      {
+        'id': 'THREE_ON_THREE_OFF',
+        'name': '3/3'
+      },
+      {
+        'id': 'TWO_ON_TWO_OFF',
+        'name': '2/2'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': True,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121773677',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '3',
+      'name': 'Екатеринбург',
+      'url': 'https://api.hh.ru/areas/3'
+    },
+    'salary': {
+      'from': 99000,
+      'to': 130000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 99000,
+      'to': 130000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-07-18T10:20:19+0300',
+    'created_at': '2025-07-18T10:20:19+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121773677',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121773677?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121773677',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'flexible',
+      'name': 'Гибкий график'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [
+      {
+        'id': 'ON_SITE',
+        'name': 'На\xa0месте работодателя'
+      }
+    ],
+    'working_hours': [
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'FLEXIBLE',
+        'name': 'По\xa0договорённости'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'TWO_ON_TWO_OFF',
+        'name': '2/2'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': True,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121171068',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '53',
+      'name': 'Краснодар',
+      'url': 'https://api.hh.ru/areas/53'
+    },
+    'salary': {
+      'from': 105000,
+      'to': 150000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 105000,
+      'to': 150000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-07-29T14:16:52+0300',
+    'created_at': '2025-07-29T14:16:52+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121171068',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121171068?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121171068',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'flexible',
+      'name': 'Гибкий график'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [],
+    'working_hours': [
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'FLEXIBLE',
+        'name': 'По\xa0договорённости'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'THREE_ON_THREE_OFF',
+        'name': '3/3'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': False,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121170821',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '88',
+      'name': 'Казань',
+      'url': 'https://api.hh.ru/areas/88'
+    },
+    'salary': {
+      'from': 115000,
+      'to': 140000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 115000,
+      'to': 140000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-07-29T14:12:30+0300',
+    'created_at': '2025-07-29T14:12:30+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121170821',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121170821?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121170821',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'flexible',
+      'name': 'Гибкий график'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [],
+    'working_hours': [
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'FLEXIBLE',
+        'name': 'По\xa0договорённости'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'TWO_ON_TWO_OFF',
+        'name': '2/2'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': True,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '123863180',
+    'premium': False,
+    'name': 'Руководитель проекта',
+    'department': {
+      'id': '1942330-1942330-magaz',
+      'name': 'Пятёрочка. Команда магазинов'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '1',
+      'name': 'Москва',
+      'url': 'https://api.hh.ru/areas/1'
+    },
+    'salary': None,
+    'salary_range': None,
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': {
+      'city': 'Москва',
+      'street': 'Вятская',
+      'building': '27 стр 22',
+      'lat': 55.797325,
+      'lng': 37.578587,
+      'description': None,
+      'raw': 'Москва, Вятская, 27 стр 22',
+      'metro': {
+        'station_name': 'Савёловская',
+        'line_name': 'Серпуховско-Тимирязевская',
+        'station_id': '9.128',
+        'line_id': '9',
+        'lat': 55.794054,
+        'lng': 37.587163
+      },
+      'metro_stations': [
+        {
+          'station_name': 'Савёловская',
+          'line_name': 'Серпуховско-Тимирязевская',
+          'station_id': '9.128',
+          'line_id': '9',
+          'lat': 55.794054,
+          'lng': 37.587163
+        },
+        {
+          'station_name': 'Савёловская',
+          'line_name': 'Большая кольцевая линия',
+          'station_id': '97.685',
+          'line_id': '97',
+          'lat': 55.794054,
+          'lng': 37.587163
+        },
+        {
+          'station_name': 'Савёловская',
+          'line_name': 'МЦД-1',
+          'station_id': '131.699',
+          'line_id': '131',
+          'lat': 55.793936,
+          'lng': 37.587038
+        }
+      ],
+      'id': '12126482'
+    },
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-08-10T14:32:14+0300',
+    'created_at': '2025-08-10T14:32:14+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=123863180',
+    'show_logo_in_search': None,
+    'show_contacts': False,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/123863180?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/123863180',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Высшее образование в области менеджмента, экономики или других смежных областях. Опыт работы в области управления проектами, оптимизации бизнес-процессов или...',
+      'responsibility': 'Разработка и реализация стратегии трансформации департамента в плоскую структуру, включая планирование, организацию и контроль выполнения проектов. Анализ текущих бизнес-процессов...'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'fullDay',
+      'name': 'Полный день'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [
+      {
+        'id': 'HYBRID',
+        'name': 'Гибрид'
+      }
+    ],
+    'working_hours': [
+      {
+        'id': 'HOURS_8',
+        'name': '8\xa0часов'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'FIVE_ON_TWO_OFF',
+        'name': '5/2'
+      }
+    ],
+    'night_shifts': False,
+    'professional_roles': [
+      {
+        'id': '107',
+        'name': 'Руководитель проектов'
+      }
+    ],
+    'accept_incomplete_resumes': False,
+    'experience': {
+      'id': 'moreThan6',
+      'name': 'Более 6 лет'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121171136',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '54',
+      'name': 'Красноярск',
+      'url': 'https://api.hh.ru/areas/54'
+    },
+    'salary': {
+      'from': 90000,
+      'to': 130000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 90000,
+      'to': 130000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-07-29T14:18:26+0300',
+    'created_at': '2025-07-29T14:18:26+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121171136',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121171136?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121171136',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'shift',
+      'name': 'Сменный график'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [],
+    'working_hours': [
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'FLEXIBLE',
+        'name': 'По\xa0договорённости'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'THREE_ON_THREE_OFF',
+        'name': '3/3'
+      }
+    ],
+    'night_shifts': True,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121172264',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '76',
+      'name': 'Ростов-на-Дону',
+      'url': 'https://api.hh.ru/areas/76'
+    },
+    'salary': {
+      'from': 101800,
+      'to': 110300,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 101800,
+      'to': 110300,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-07-29T14:40:19+0300',
+    'created_at': '2025-07-29T14:40:19+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121172264',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121172264?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121172264',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'flexible',
+      'name': 'Гибкий график'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [
+      {
+        'id': 'ON_SITE',
+        'name': 'На\xa0месте работодателя'
+      }
+    ],
+    'working_hours': [
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'FLEXIBLE',
+        'name': 'По\xa0договорённости'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'TWO_ON_TWO_OFF',
+        'name': '2/2'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': False,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121347655',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '104',
+      'name': 'Челябинск',
+      'url': 'https://api.hh.ru/areas/104'
+    },
+    'salary': {
+      'from': 90000,
+      'to': 120000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 90000,
+      'to': 120000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': {
+        'id': 'TWICE_PER_MONTH',
+        'name': 'Два раза в\xa0месяц'
+      }
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-08-03T15:56:23+0300',
+    'created_at': '2025-08-03T15:56:23+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121347655',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121347655?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121347655',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'fullDay',
+      'name': 'Полный день'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [
+      {
+        'id': 'ON_SITE',
+        'name': 'На\xa0месте работодателя'
+      }
+    ],
+    'working_hours': [
+      {
+        'id': 'HOURS_8',
+        'name': '8\xa0часов'
+      },
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'FLEXIBLE',
+        'name': 'По\xa0договорённости'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'TWO_ON_TWO_OFF',
+        'name': '2/2'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': True,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  },
+  {
+    'id': '121280708',
+    'premium': False,
+    'name': 'Кладовщик',
+    'department': {
+      'id': '1942330-1942330-sklad',
+      'name': 'Пятёрочка. Распределительные центры'
+    },
+    'has_test': False,
+    'response_letter_required': False,
+    'area': {
+      'id': '2045',
+      'name': 'Ногинск (Московская область)',
+      'url': 'https://api.hh.ru/areas/2045'
+    },
+    'salary': {
+      'from': 122000,
+      'to': 155000,
+      'currency': 'RUR',
+      'gross': True
+    },
+    'salary_range': {
+      'from': 122000,
+      'to': 155000,
+      'currency': 'RUR',
+      'gross': True,
+      'mode': {
+        'id': 'MONTH',
+        'name': 'За\xa0месяц'
+      },
+      'frequency': None
+    },
+    'type': {
+      'id': 'open',
+      'name': 'Открытая'
+    },
+    'address': None,
+    'response_url': None,
+    'sort_point_distance': None,
+    'published_at': '2025-08-02T12:45:36+0300',
+    'created_at': '2025-08-02T12:45:36+0300',
+    'archived': False,
+    'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=121280708',
+    'branding': {
+      'type': 'MAKEUP',
+      'tariff': None
+    },
+    'show_logo_in_search': True,
+    'show_contacts': True,
+    'insider_interview': {
+      'id': '33608',
+      'url': 'https://hh.ru/interview/33608?employerId=1942330'
+    },
+    'url': 'https://api.hh.ru/vacancies/121280708?host=hh.ru',
+    'alternate_url': 'https://hh.ru/vacancy/121280708',
+    'relations': [],
+    'employer': {
+      'id': '1942330',
+      'name': 'Пятёрочка',
+      'url': 'https://api.hh.ru/employers/1942330',
+      'alternate_url': 'https://hh.ru/employer/1942330',
+      'logo_urls': {
+        'original': 'https://img.hhcdn.ru/employer-logo-original/1370508.png',
+        '90': 'https://img.hhcdn.ru/employer-logo/7101934.png',
+        '240': 'https://img.hhcdn.ru/employer-logo/7101935.png'
+      },
+      'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1942330',
+      'accredited_it_employer': False,
+      'trusted': True
+    },
+    'snippet': {
+      'requirement': 'Без опыта - научим. С опытом - покажем как больше зарабатывать.',
+      'responsibility': 'Погрузка и выгрузка товара. Сборка заказа с помощью голосового терминала и электротележки.'
+    },
+    'contacts': None,
+    'schedule': {
+      'id': 'fullDay',
+      'name': 'Полный день'
+    },
+    'working_days': [],
+    'working_time_intervals': [],
+    'working_time_modes': [],
+    'accept_temporary': False,
+    'fly_in_fly_out_duration': [],
+    'work_format': [
+      {
+        'id': 'ON_SITE',
+        'name': 'На\xa0месте работодателя'
+      }
+    ],
+    'working_hours': [
+      {
+        'id': 'HOURS_8',
+        'name': '8\xa0часов'
+      },
+      {
+        'id': 'HOURS_10',
+        'name': '10\xa0часов'
+      },
+      {
+        'id': 'HOURS_12',
+        'name': '12\xa0часов'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'work_schedule_by_days': [
+      {
+        'id': 'TWO_ON_TWO_OFF',
+        'name': '2/2'
+      },
+      {
+        'id': 'OTHER',
+        'name': 'Другое'
+      }
+    ],
+    'night_shifts': True,
+    'professional_roles': [
+      {
+        'id': '52',
+        'name': 'Кладовщик'
+      }
+    ],
+    'accept_incomplete_resumes': True,
+    'experience': {
+      'id': 'noExperience',
+      'name': 'Нет опыта'
+    },
+    'employment': {
+      'id': 'full',
+      'name': 'Полная занятость'
+    },
+    'employment_form': {
+      'id': 'FULL',
+      'name': 'Полная'
+    },
+    'internship': False,
+    'adv_response_url': None,
+    'is_adv_vacancy': False,
+    'adv_context': None
+  }
+]
+
+
+
+
+[
+  [
+    {
+      'id': '121171854',
+      'name': 'Кладовщик',
+      'salary_avg': 126000.0,
+      'url': 'https://hh.ru/vacancy/121171854',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121172485',
+      'name': 'Кладовщик',
+      'salary_avg': 141500.0,
+      'url': 'https://hh.ru/vacancy/121172485',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121773677',
+      'name': 'Кладовщик',
+      'salary_avg': 114500.0,
+      'url': 'https://hh.ru/vacancy/121773677',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121171068',
+      'name': 'Кладовщик',
+      'salary_avg': 127500.0,
+      'url': 'https://hh.ru/vacancy/121171068',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121170821',
+      'name': 'Кладовщик',
+      'salary_avg': 127500.0,
+      'url': 'https://hh.ru/vacancy/121170821',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '123863180',
+      'name': 'Руководитель проекта',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123863180',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121171136',
+      'name': 'Кладовщик',
+      'salary_avg': 110000.0,
+      'url': 'https://hh.ru/vacancy/121171136',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121172264',
+      'name': 'Кладовщик',
+      'salary_avg': 106050.0,
+      'url': 'https://hh.ru/vacancy/121172264',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121347655',
+      'name': 'Кладовщик',
+      'salary_avg': 105000.0,
+      'url': 'https://hh.ru/vacancy/121347655',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    },
+    {
+      'id': '121280708',
+      'name': 'Кладовщик',
+      'salary_avg': 138500.0,
+      'url': 'https://hh.ru/vacancy/121280708',
+      'employer_name': 'Пятёрочка',
+      'employer_id': '1942330'
+    }
+  ],
+  [
+    {
+      'id': '123634076',
+      'name': 'Middle manual QA',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123634076',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123357502',
+      'name': 'Senior Frontend разработчик',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123357502',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123714072',
+      'name': 'Менеджер по документообороту',
+      'salary_avg': 64000.0,
+      'url': 'https://hh.ru/vacancy/123714072',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123166021',
+      'name': 'Системный аналитик',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123166021',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123627851',
+      'name': 'Оператор чат-поддержки',
+      'salary_avg': 47500,
+      'url': 'https://hh.ru/vacancy/123627851',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123635748',
+      'name': 'Системный аналитик',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123635748',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123628453',
+      'name': 'Специалист чат-поддержки',
+      'salary_avg': 47500,
+      'url': 'https://hh.ru/vacancy/123628453',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123714851',
+      'name': 'Аналитик данных',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123714851',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123757269',
+      'name': 'Оператор поддержки текстовой линии',
+      'salary_avg': 47000,
+      'url': 'https://hh.ru/vacancy/123757269',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    },
+    {
+      'id': '123837737',
+      'name': 'Senior Frontend React разработчик',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123837737',
+      'employer_name': 'МАГНИТ, Розничная сеть',
+      'employer_id': '49357'
+    }
+  ],
+  [
+    {
+      'id': '123680022',
+      'name': 'Менеджер проектов',
+      'salary_avg': 159250.0,
+      'url': 'https://hh.ru/vacancy/123680022',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '120245745',
+      'name': 'Администратор отдела координации',
+      'salary_avg': 77000.0,
+      'url': 'https://hh.ru/vacancy/120245745',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '123807297',
+      'name': 'Заместитель директора филиала по безопасности',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123807297',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '123843587',
+      'name': 'Руководитель строительного проекта',
+      'salary_avg': 151200,
+      'url': 'https://hh.ru/vacancy/123843587',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '120435474',
+      'name': 'Начинающий специалист',
+      'salary_avg': 100000,
+      'url': 'https://hh.ru/vacancy/120435474',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '123641345',
+      'name': 'Подменный водитель',
+      'salary_avg': 93500.0,
+      'url': 'https://hh.ru/vacancy/123641345',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '123635027',
+      'name': 'Бизнес-аналитик',
+      'salary_avg': 150000,
+      'url': 'https://hh.ru/vacancy/123635027',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '121929370',
+      'name': 'QA Engineer',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/121929370',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '123616043',
+      'name': 'Администратор отдела назначения',
+      'salary_avg': 95000.0,
+      'url': 'https://hh.ru/vacancy/123616043',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    },
+    {
+      'id': '122793382',
+      'name': 'Монтажник связи',
+      'salary_avg': 120000,
+      'url': 'https://hh.ru/vacancy/122793382',
+      'employer_name': 'Ростелеком',
+      'employer_id': '2748'
+    }
+  ],
+  [
+    {
+      'id': '123711440',
+      'name': 'Электромонтажник (расключка) (Северо-Самбургское нефтегазовое месторождение)',
+      'salary_avg': 200000,
+      'url': 'https://hh.ru/vacancy/123711440',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '123438791',
+      'name': 'Плиточник',
+      'salary_avg': 210000,
+      'url': 'https://hh.ru/vacancy/123438791',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '122873661',
+      'name': 'Разнорабочий на покос травы',
+      'salary_avg': 125000,
+      'url': 'https://hh.ru/vacancy/122873661',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '123541133',
+      'name': 'Сварщик НАКС СК',
+      'salary_avg': 208000,
+      'url': 'https://hh.ru/vacancy/123541133',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '123846341',
+      'name': 'Сварщик НАКС ОХНВП',
+      'salary_avg': 247000,
+      'url': 'https://hh.ru/vacancy/123846341',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '123393317',
+      'name': 'Кровельщик (Северо-Самбургское нефтегазовое месторождение Базовый город, Новый Уренгой)',
+      'salary_avg': 210000,
+      'url': 'https://hh.ru/vacancy/123393317',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '122834169',
+      'name': 'Гипсокартонщик',
+      'salary_avg': 210000,
+      'url': 'https://hh.ru/vacancy/122834169',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '123711347',
+      'name': 'Электромонтажник (месторождение Ямал)',
+      'salary_avg': 210000,
+      'url': 'https://hh.ru/vacancy/123711347',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '123542990',
+      'name': 'Сварщик НАКС СК',
+      'salary_avg': 208000,
+      'url': 'https://hh.ru/vacancy/123542990',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    },
+    {
+      'id': '123760778',
+      'name': 'Электромонтажник',
+      'salary_avg': 200000,
+      'url': 'https://hh.ru/vacancy/123760778',
+      'employer_name': 'ПрессБук',
+      'employer_id': '11875449'
+    }
+  ],
+  [
+    {
+      'id': '123683362',
+      'name': 'Менеджер проектов',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123683362',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123824286',
+      'name': 'Ведущий специалист по охране труда',
+      'salary_avg': 170000,
+      'url': 'https://hh.ru/vacancy/123824286',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123761850',
+      'name': 'Юрист в сфере IT',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123761850',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '122701908',
+      'name': 'Личный водитель',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/122701908',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123800322',
+      'name': 'Младший специалист по документообороту',
+      'salary_avg': 85000,
+      'url': 'https://hh.ru/vacancy/123800322',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123721789',
+      'name': 'Специалист по кадровому делопроизводству',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123721789',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123334461',
+      'name': 'Младший специалист в отдел идентификации клиентов',
+      'salary_avg': 73000,
+      'url': 'https://hh.ru/vacancy/123334461',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123670211',
+      'name': 'Проектный менеджер сервиса «Отели»',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123670211',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123848175',
+      'name': 'Ассистент по документообороту',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123848175',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    },
+    {
+      'id': '123796810',
+      'name': 'Ассистент по документообороту',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123796810',
+      'employer_name': 'Т-Банк',
+      'employer_id': '78638'
+    }
+  ],
+  [
+    {
+      'id': '120528548',
+      'name': 'Менеджер по продажам (аутстаффинг)',
+      'salary_avg': 200000,
+      'url': 'https://hh.ru/vacancy/120528548',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '123215189',
+      'name': 'Дорожный рабочий',
+      'salary_avg': 132100.0,
+      'url': 'https://hh.ru/vacancy/123215189',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '123200493',
+      'name': 'Разнорабочий',
+      'salary_avg': 118000,
+      'url': 'https://hh.ru/vacancy/123200493',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '123236245',
+      'name': 'Мастер СМР',
+      'salary_avg': 185000,
+      'url': 'https://hh.ru/vacancy/123236245',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '122868466',
+      'name': 'Разнорабочий',
+      'salary_avg': 119000,
+      'url': 'https://hh.ru/vacancy/122868466',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '123056899',
+      'name': 'Плотник',
+      'salary_avg': 155000,
+      'url': 'https://hh.ru/vacancy/123056899',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '123042397',
+      'name': 'Монтажник стальных и железобетонных конструкций',
+      'salary_avg': 155000,
+      'url': 'https://hh.ru/vacancy/123042397',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '123049156',
+      'name': 'Арматурщик',
+      'salary_avg': 155000,
+      'url': 'https://hh.ru/vacancy/123049156',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '123053706',
+      'name': 'Бетонщик',
+      'salary_avg': 155000,
+      'url': 'https://hh.ru/vacancy/123053706',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    },
+    {
+      'id': '122833526',
+      'name': 'Бетонщик',
+      'salary_avg': 138600,
+      'url': 'https://hh.ru/vacancy/122833526',
+      'employer_name': 'ТехноСтафф Альянс',
+      'employer_id': '11880060'
+    }
+  ],
+  [
+    {
+      'id': '123647531',
+      'name': 'Оператор контакт-центра',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123647531',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '118902764',
+      'name': 'Администратор в клуб Spirit. Fitness',
+      'salary_avg': 75000.0,
+      'url': 'https://hh.ru/vacancy/118902764',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '123612261',
+      'name': 'Заместитель главного бухгалтера',
+      'salary_avg': 225000.0,
+      'url': 'https://hh.ru/vacancy/123612261',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '123522046',
+      'name': 'Администратор в клуб Spirit. Fitness (ТК Невский-центр)',
+      'salary_avg': 55000.0,
+      'url': 'https://hh.ru/vacancy/123522046',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '121548789',
+      'name': 'Администратор-консультант в клуб Spirit. Fitness (ТЦ DESPORT)',
+      'salary_avg': 65000.0,
+      'url': 'https://hh.ru/vacancy/121548789',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '123647219',
+      'name': 'Координатор отдела продаж DIY',
+      'salary_avg': 95000.0,
+      'url': 'https://hh.ru/vacancy/123647219',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '119899184',
+      'name': 'Оператор контакт-центра Spirit. Fitness',
+      'salary_avg': 45000,
+      'url': 'https://hh.ru/vacancy/119899184',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '123608764',
+      'name': 'Администратор стойки предпродаж в новый клуб (м. Автозаводская)',
+      'salary_avg': 75000.0,
+      'url': 'https://hh.ru/vacancy/123608764',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '121841258',
+      'name': 'Менеджер маркетплейсов',
+      'salary_avg': 175000.0,
+      'url': 'https://hh.ru/vacancy/121841258',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    },
+    {
+      'id': '122411787',
+      'name': 'Контекстолог/ Директолог',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/122411787',
+      'employer_name': 'Сеть фитнес-клубов Spirit',
+      'employer_id': '2848663'
+    }
+  ],
+  [
+    {
+      'id': '123864775',
+      'name': 'Младший менеджер проектов, Ozon Банк',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123864775',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123847324',
+      'name': 'Специалист по оцифровке запросов гос. органов (удаленно)',
+      'salary_avg': 60000,
+      'url': 'https://hh.ru/vacancy/123847324',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123764386',
+      'name': 'Менеджер проектов',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123764386',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123865123',
+      'name': 'Старший менеджер проектов, Ozon Банк',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123865123',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123853853',
+      'name': 'Специалист по работе со справками',
+      'salary_avg': 72500.0,
+      'url': 'https://hh.ru/vacancy/123853853',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123661141',
+      'name': 'Менеджер проектов',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123661141',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123854988',
+      'name': 'Специалист по обработке запросов от государственных органов',
+      'salary_avg': 72500.0,
+      'url': 'https://hh.ru/vacancy/123854988',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123834265',
+      'name': 'Младший специалист поддержки информационных систем, Группа мониторинга и сопровождения инцидентов',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123834265',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123857936',
+      'name': 'Специалист чат-поддержки',
+      'salary_avg': 52500.0,
+      'url': 'https://hh.ru/vacancy/123857936',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    },
+    {
+      'id': '123532742',
+      'name': 'Frontend-разработчик/Логистика, TMS',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123532742',
+      'employer_name': 'Ozon',
+      'employer_id': '2180'
+    }
+  ],
+  [
+    {
+      'id': '123669833',
+      'name': 'Администратор по обратной связи интернет магазина',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123669833',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123815440',
+      'name': 'Системный аналитик',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123815440',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123759702',
+      'name': 'Системный аналитик',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123759702',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123611833',
+      'name': 'Системный аналитик (junior+)',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123611833',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123846006',
+      'name': 'Специалист по закупкам',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123846006',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123647312',
+      'name': 'Системный аналитик (junior+)',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123647312',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123830148',
+      'name': 'PHP-разработчик (Middle)',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123830148',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123863819',
+      'name': 'Администратор (г. Новомосковск)',
+      'salary_avg': 57750.0,
+      'url': 'https://hh.ru/vacancy/123863819',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123212725',
+      'name': 'Java-разработчик',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123212725',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    },
+    {
+      'id': '123259403',
+      'name': 'Заведующий магазином в Дубае',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123259403',
+      'employer_name': 'FIX PRICE',
+      'employer_id': '196621'
+    }
+  ],
+  [
+    {
+      'id': '123720590',
+      'name': 'Контент-дизайнер',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123720590',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123689281',
+      'name': 'Аналитик в Департамент по развитию продаж готовой еды',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123689281',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123308530',
+      'name': 'Начинающий специалист - Стажер (Специалист по закупкам)',
+      'salary_avg': 50000,
+      'url': 'https://hh.ru/vacancy/123308530',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123720478',
+      'name': 'Менеджер по недвижимости (сопровождение действующих арендаторов)',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123720478',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123838391',
+      'name': 'Специалист по товарной категории (молоко и сыр)',
+      'salary_avg': 60000.0,
+      'url': 'https://hh.ru/vacancy/123838391',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123606527',
+      'name': 'Специалист по документообороту',
+      'salary_avg': 53300,
+      'url': 'https://hh.ru/vacancy/123606527',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123531128',
+      'name': 'Менеджер по управлению Мастер Данными',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123531128',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123852023',
+      'name': 'Специалист по документообороту',
+      'salary_avg': 51050.0,
+      'url': 'https://hh.ru/vacancy/123852023',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '123549195',
+      'name': 'Дивизиональный HR BP',
+      'salary_avg': 0,
+      'url': 'https://hh.ru/vacancy/123549195',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    },
+    {
+      'id': '122915607',
+      'name': 'Продавец/старший сотрудник супермаркета (Москва, Причальный, 8)',
+      'salary_avg': 88350.0,
+      'url': 'https://hh.ru/vacancy/122915607',
+      'employer_name': 'Перекрёсток',
+      'employer_id': '1942336'
+    }
+  ]
+]
