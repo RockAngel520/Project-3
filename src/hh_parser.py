@@ -12,7 +12,9 @@ class HHParser:
         data = response.json()["items"]
         employers = []
         for employer in data:
-            employers.append({"id": employer["id"], "name": employer["name"], "open_vacancies": employer["open_vacancies"]})
+            employers.append(
+                {"id": employer["id"], "name": employer["name"], "open_vacancies": employer["open_vacancies"]}
+            )
         return employers
 
     def get_vacancies_by_employer_id(self, employer_id):
@@ -38,12 +40,14 @@ class HHParser:
             else:
                 salary_avg = 0
 
-            vacancies.append({
-                "id": vacancy["id"],
-                "name": vacancy["name"],
-                "salary_avg": salary_avg,
-                "url": vacancy["alternate_url"],
-                "employer_name": vacancy["employer"]["name"],
-                "employer_id": vacancy["employer"]["id"],
-            })
+            vacancies.append(
+                {
+                    "id": vacancy["id"],
+                    "name": vacancy["name"],
+                    "salary_avg": salary_avg,
+                    "url": vacancy["alternate_url"],
+                    "employer_name": vacancy["employer"]["name"],
+                    "employer_id": vacancy["employer"]["id"],
+                }
+            )
         return vacancies

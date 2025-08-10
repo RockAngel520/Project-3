@@ -1,5 +1,5 @@
-from src.utils import create_database, create_tables, insert_employers, insert_vacancies
 from src.db_manager import DBManager
+from src.utils import create_database, create_tables, insert_employers, insert_vacancies
 
 
 def main():

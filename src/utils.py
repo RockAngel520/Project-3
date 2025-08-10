@@ -1,6 +1,8 @@
 import psycopg2
+
 from config import config
 from src.hh_parser import HHParser
+
 
 def create_database(db_name):
     """Функция создания базы данных с заданным именем"""
@@ -21,19 +23,20 @@ def create_tables(db_name):
     params = config()
     with psycopg2.connect(dbname=db_name, **params) as conn:
         with conn.cursor() as cur:
-            cur.execute("CREATE TABLE employers ("
-                        "id INT PRIMARY KEY,"
-                        "name VARCHAR(255) NOT NULL,"
-                        "open_vacancies INT)")
+            cur.execute(
+                "CREATE TABLE employers (" "id INT PRIMARY KEY," "name VARCHAR(255) NOT NULL," "open_vacancies INT)"
+            )
 
         with conn.cursor() as cur:
-            cur.execute("CREATE TABLE vacancies ("
-                        "vacancy_id INT PRIMARY KEY,"
-                        "vacancy_name VARCHAR(255) NOT NULL,"
-                        "salary FLOAT,"
-                        "url VARCHAR(255) NOT NULL,"
-                        "employer_name VARCHAR(255) NOT NULL,"
-                        "employer_id INT REFERENCES employers(id))")
+            cur.execute(
+                "CREATE TABLE vacancies ("
+                "vacancy_id INT PRIMARY KEY,"
+                "vacancy_name VARCHAR(255) NOT NULL,"
+                "salary FLOAT,"
+                "url VARCHAR(255) NOT NULL,"
+                "employer_name VARCHAR(255) NOT NULL,"
+                "employer_id INT REFERENCES employers(id))"
+            )
 
     conn.close()
 
@@ -46,7 +49,10 @@ def insert_employers(db_name):
     with psycopg2.connect(dbname=db_name, **params) as conn:
         with conn.cursor() as cur:
             for employer in employers:
-                cur.execute("INSERT INTO employers VALUES (%s, %s, %s)", (employer["id"], employer["name"], employer["open_vacancies"]))
+                cur.execute(
+                    "INSERT INTO employers VALUES (%s, %s, %s)",
+                    (employer["id"], employer["name"], employer["open_vacancies"]),
+                )
     conn.close()
 
 
@@ -74,6 +80,15 @@ def insert_vacancies(db_name):
     with psycopg2.connect(dbname=db_name, **params) as conn:
         with conn.cursor() as cur:
             for vacancy in vacancies:
-                cur.execute("INSERT INTO vacancies VALUES (%s, %s, %s, %s, %s, %s)", (vacancy["id"], vacancy["name"],
-                        vacancy["salary_avg"], vacancy["url"], vacancy["employer_name"], vacancy["employer_id"]))
+                cur.execute(
+                    "INSERT INTO vacancies VALUES (%s, %s, %s, %s, %s, %s)",
+                    (
+                        vacancy["id"],
+                        vacancy["name"],
+                        vacancy["salary_avg"],
+                        vacancy["url"],
+                        vacancy["employer_name"],
+                        vacancy["employer_id"],
+                    ),
+                )
     conn.close()

@@ -10,7 +10,6 @@ class DBManager:
         """Метод инициализации класса DBManager"""
         self.__db_name = db_name
 
-
     def __execute_query(self, query):
         """Метод для выполнения запросов к БД"""
         params = config()
@@ -21,19 +20,16 @@ class DBManager:
         conn.close()
         return result
 
-
     def get_companies_and_vacancies_count(self):
         """Метод, который получает список всех компаний и количество вакансий у каждой компании"""
         query = "SELECT name, open_vacancies FROM employers"
         return self.__execute_query(query)
-
 
     def get_all_vacancies(self):
         """Метод, который получает список всех вакансий с указанием названия компании, названия вакансии и зарплаты
         и ссылки на вакансию"""
         query = "SELECT employer_name, vacancy_name, salary, url FROM vacancies"
         return self.__execute_query(query)
-
 
     def get_avg_salary(self):
         """Метод, который получает среднюю зарплату по вакансиям"""
@@ -42,13 +38,16 @@ class DBManager:
 
     def get_vacancies_with_higher_salary(self, avg_salary):
         """Метод, который получает список всех вакансий, у которых зарплата выше средней по всем вакансиям"""
-        query = (f"SELECT employer_name, vacancy_name, salary, url FROM vacancies WHERE salary > {avg_salary} ORDER "
-                 f"BY salary DESC")
+        query = (
+            f"SELECT employer_name, vacancy_name, salary, url FROM vacancies WHERE salary > {avg_salary} ORDER "
+            f"BY salary DESC"
+        )
         return self.__execute_query(query)
-
 
     def get_vacancies_with_keyword(self, keyword):
         """Метод, который получает список всех вакансий с переданным словом"""
-        query = (f"SELECT employer_name, vacancy_name, salary, url FROM vacancies WHERE LOWER(vacancy_name) LIKE "
-                 f"'%{keyword.lower()}%'")
+        query = (
+            f"SELECT employer_name, vacancy_name, salary, url FROM vacancies WHERE LOWER(vacancy_name) LIKE "
+            f"'%{keyword.lower()}%'"
+        )
         return self.__execute_query(query)
