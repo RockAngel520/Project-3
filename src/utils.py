@@ -34,7 +34,6 @@ def create_tables(db_name):
                 "vacancy_name VARCHAR(255) NOT NULL,"
                 "salary FLOAT,"
                 "url VARCHAR(255) NOT NULL,"
-                "employer_name VARCHAR(255) NOT NULL,"
                 "employer_id INT REFERENCES employers(id))"
             )
 
@@ -81,13 +80,12 @@ def insert_vacancies(db_name):
         with conn.cursor() as cur:
             for vacancy in vacancies:
                 cur.execute(
-                    "INSERT INTO vacancies VALUES (%s, %s, %s, %s, %s, %s)",
+                    "INSERT INTO vacancies VALUES (%s, %s, %s, %s, %s)",
                     (
                         vacancy["id"],
                         vacancy["name"],
                         vacancy["salary_avg"],
                         vacancy["url"],
-                        vacancy["employer_name"],
                         vacancy["employer_id"],
                     ),
                 )

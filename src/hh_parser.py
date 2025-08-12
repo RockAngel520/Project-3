@@ -4,7 +4,7 @@ import requests
 class HHParser:
     """Класс для работы с сайтом hh.ru через API"""
 
-    def get_employers(self):
+    def get_employers(self) -> list:
         """Метод получения топ 10 работодателей по количеству открытых вакансий"""
         params = {"sort_by": "by_vacancies_open", "per_page": 10}
         response = requests.get("https://api.hh.ru/employers", params=params)
@@ -17,7 +17,7 @@ class HHParser:
             )
         return employers
 
-    def get_vacancies_by_employer_id(self, employer_id):
+    def get_vacancies_by_employer_id(self, employer_id: str) -> list:
         """Метод получения первых 30 вакансий по id работодателя"""
         params = {"employer_id": employer_id, "per_page": 30}
         response = requests.get("https://api.hh.ru/vacancies", params=params)
